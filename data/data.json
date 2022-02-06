@@ -5,7 +5,8 @@
           "title": "esad-cs",
           "quizzes": [
               
-               {"module": "01", "no": 1, "date": "Feb 03 2022", "coverage":"Databases and SQL" , "folder":"M1/SQL01"}
+               {"module": "01", "no": 1, "date": "Feb 03 2022", "coverage":"Databases and SQL" , "folder":"M1/SQL01"},
+               {"module": "01", "no": 2, "date": "Feb 06 2022", "coverage":"Management Studio" , "folder":"M1/SQL02"}
                
                
           ]
