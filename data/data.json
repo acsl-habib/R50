@@ -8,7 +8,8 @@
                {"module": "01", "no": 1, "date": "Feb 03 2022", "coverage":"Databases and SQL" , "folder":"M1/SQL01"},
                {"module": "01", "no": 2, "date": "Feb 06 2022", "coverage":"Management Studio" , "folder":"M1/SQL02"},
                {"module": "01", "no": 3, "date": "Feb 06 2022", "coverage":"Data from single table" , "folder":"M1/SQL03"},
-               {"module": "01", "no": 4, "date": "Feb 07 2022", "coverage":"Join query" , "folder":"M1/SQL04"}
+               {"module": "01", "no": 4, "date": "Feb 07 2022", "coverage":"Sub-query" , "folder":"M1/SQL04"},
+               {"module": "01", "no": 5, "date": "Feb 15 2022", "coverage":"JOINs" , "folder":"M1/SQL05"}
                
                
           ]
