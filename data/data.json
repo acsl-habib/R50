@@ -10,7 +10,8 @@
                {"module": "01", "no": 3, "date": "Feb 06 2022", "coverage":"Data from single table" , "folder":"M1/SQL03"},
                {"module": "01", "no": 4, "date": "Feb 07 2022", "coverage":"Sub-query" , "folder":"M1/SQL04"},
                {"module": "01", "no": 5, "date": "Feb 15 2022", "coverage":"JOINs" , "folder":"M1/SQL05"},
-               {"module": "01", "no": 6, "date": "Feb 20 2022", "coverage":"Ch 01 to 05" , "folder":"M1/SQL06"}
+               {"module": "01", "no": 6, "date": "Feb 20 2022", "coverage":"Ch 01 to 05" , "folder":"M1/SQL06"},
+               {"module": "01", "no": 7, "date": "Feb 22 2022", "coverage":"Sub-query" , "folder":"M1/SQL07"}
                
                
           ]
