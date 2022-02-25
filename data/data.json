@@ -15,7 +15,8 @@
                {"module": "01", "no": 8, "date": "Feb 22 2022", "coverage":"Insert/update/dlete" , "folder":"M1/SQL08"},
                {"module": "01", "no": 9, "date": "Feb 22 2022", "coverage":"Data types" , "folder":"M1/SQL09"},
                {"module": "01", "no": 10, "date": "Feb 22 2022", "coverage":"Built-in functions" , "folder":"M1/SQL10"},
-               {"module": "01", "no": 11, "date": "Feb 25 2022", "coverage":"Mock" , "folder":"M1/SQLMock01"}
+               {"module": "01", "no": 11, "date": "Feb 25 2022", "coverage":"Mock" , "folder":"M1/SQLMock01"},
+               {"module": "01", "no": 12, "date": "Feb 25 2022", "coverage":"Mock" , "folder":"https://forms.gle/KLcjqrx3EBMHes4s8"}
                
                
           ]
