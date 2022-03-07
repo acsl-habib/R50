@@ -19,7 +19,8 @@
                {"module": "01", "no": 12, "date": "Feb 25 2022", "coverage":"Mock" , "folder":"https://forms.gle/KLcjqrx3EBMHes4s8"},
                {"module": "01", "no": 13, "date": "Feb 26 2022", "coverage":"Mock" , "folder":"https://forms.office.com/r/eZZkrwQxN6"},
                {"module": "01", "no": 14, "date": "Mar 05 2022", "coverage":"Create database & tables" , "folder":"M1/SQL14"},
-               {"module": "01", "no": 15, "date": "Mar 06 2022", "coverage":"Views" , "folder":"M1/SQL15"}
+               {"module": "01", "no": 15, "date": "Mar 06 2022", "coverage":"Views" , "folder":"M1/SQL15"},
+               {"module": "01", "no": 16, "date": "Mar 07 2022", "coverage":"Code scripts" , "folder":"M1/SQL16"}
                
                
           ]
