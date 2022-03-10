@@ -21,7 +21,13 @@
                {"module": "01", "no": 14, "date": "Mar 05 2022", "coverage":"Create database & tables" , "folder":"M1/SQL14"},
                {"module": "01", "no": 15, "date": "Mar 06 2022", "coverage":"Views" , "folder":"M1/SQL15"},
                {"module": "01", "no": 16, "date": "Mar 07 2022", "coverage":"Code scripts" , "folder":"M1/SQL16"},
-               {"module": "01", "no": 17, "date": "Mar 08 2022", "coverage":"View,procedure, functions, trigger" , "folder":"M1/SQL17"}
+               {"module": "01", "no": 17, "date": "Mar 08 2022", "coverage":"View,procedure, functions, trigger" , "folder":"M1/SQL17"},
+               {"module": "01", "no": 18, "date": "Mar 10 2022", "coverage":"Mock" , "folder":"M1/SQL18"},
+               {"module": "01", "no": 19, "date": "Mar 10 2022", "coverage":"Mock" , "folder":"M1/SQL19"},
+               {"module": "01", "no": 20, "date": "Mar 10 2022", "coverage":"Mock" , "folder":"https://forms.gle/6PFDUpd45GiZUU6AA"},
+               {"module": "01", "no": 21, "date": "Mar 10 2022", "coverage":"Mock" , "folder":"https://forms.gle/TigQo5GX8cUQiB9PA"}
+               
+               
                
                
           ]
