@@ -29,7 +29,8 @@
                {"module": "02", "no": 1, "date": "Mar 23 2022", "coverage":"Variables" , "folder":"M2/CS01"},
                {"module": "02", "no": 2, "date": "Mar 23 2022", "coverage":"Methods" , "folder":"M2/CS02"},
                {"module": "02", "no": 3, "date": "Mar 23 2022", "coverage":"Decision statemets" , "folder":"M2/CS03"},
-               {"module": "02", "no": 4, "date": "Mar 23 2022", "coverage":"Compound statemets" , "folder":"M2/CS04"}
+               {"module": "02", "no": 4, "date": "Mar 23 2022", "coverage":"Compound statemets" , "folder":"M2/CS04"},
+               {"module": "02", "no": 5, "date": "Mar 27 2022", "coverage":"Exceptions" , "folder":"M2/CS05"}
                
                
                
