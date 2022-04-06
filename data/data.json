@@ -34,7 +34,9 @@
                {"module": "02", "no": 6, "date": "Mar 27 2022", "coverage":"Mock" , "folder":"M2/CSMock01"},
                {"module": "02", "no": 7, "date": "Mar 27 2022", "coverage":"Mock" , "folder":"https://forms.office.com/r/FxMfpMacR2"},
                {"module": "02", "no": 8, "date": "Apr 06 2022", "coverage":"Class & objects" , "folder":"M2/CS06"},
-               {"module": "02", "no": 9, "date": "Apr 06 2022", "coverage":"Values and reference" , "folder":"M2/CS07"}
+               {"module": "02", "no": 9, "date": "Apr 06 2022", "coverage":"Values and reference" , "folder":"M2/CS07"},
+               {"module": "02", "no": 10, "date": "Apr 06 2022", "coverage":"enumeartion & structures" , "folder":"M2/CS08"},
+               {"module": "02", "no": 11, "date": "Apr 06 2022", "coverage":"Arrays" , "folder":"M2/CS09"}
                
                
                
