@@ -38,7 +38,8 @@
                {"module": "02", "no": 10, "date": "Apr 06 2022", "coverage":"enumeartion & structures" , "folder":"M2/CS08"},
                {"module": "02", "no": 11, "date": "Apr 06 2022", "coverage":"Arrays" , "folder":"M2/CS09"},
                {"module": "02", "no": 12, "date": "Apr 10 2022", "coverage":"Param Arrays" , "folder":"M2/CS10"},
-               {"module": "02", "no": 13, "date": "Apr 11 2022", "coverage":"Inheritance" , "folder":"M2/CS11"}
+               {"module": "02", "no": 13, "date": "Apr 11 2022", "coverage":"Inheritance" , "folder":"M2/CS11"},
+               {"module": "02", "no": 14, "date": "Apr 11 2022", "coverage":"Interface, Abstract class" , "folder":"M2/CS12"}
           ]
      }
 ]
