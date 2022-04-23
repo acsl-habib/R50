@@ -43,7 +43,9 @@
                {"module":"02","no":15,"date":"Apr 11 2022","coverage":"Mock","folder":"https://forms.office.com/r/LwVbsaunVV"},
                {"module":"02","no":16,"date":"Apr 11 2022","coverage":"Mock","folder":"https://forms.office.com/r/RPHbteDdN5"},
                {"module":"02","no":17,"date":"Apr 11 2022","coverage":"Mock","folder":"https://forms.gle/7w9v9QE2UuEi4P967"},
-               {"module": "02", "no": 18, "date": "Apr 12 2022", "coverage":"Mock" , "folder":"https://forms.office.com/r/wjzr12tkKc"}
+               {"module": "02", "no": 18, "date": "Apr 12 2022", "coverage":"Mock" , "folder":"https://forms.office.com/r/wjzr12tkKc"},
+               {"module": "02", "no": 19, "date": "Apr 23 2022", "coverage":"Properties" , "folder":"M2/CS12"},
+               {"module": "02", "no": 20, "date": "Apr 23 2022", "coverage":"Properties, Binary data" , "folder":"M2/CS13"}
 
 
           ]
