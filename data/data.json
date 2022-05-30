@@ -52,7 +52,8 @@
                {"module": "02", "no": 24, "date": "Apr 24 2022", "coverage":"Mock" , "folder":"M2/CSMock03"},
                {"module": "02", "no": 25, "date": "Apr 24 2022", "coverage":"Mock" , "folder":"M2/CSMock04"},
                {"module": "03", "no": 1, "date": "May 29 2022", "coverage":"Activity diagram" , "folder":"M3/OOSAD01"},
-               {"module": "03", "no": 2, "date": "May 29 2022", "coverage":"Communication diagram" , "folder":"M3/OOSAD02"}
+               {"module": "03", "no": 2, "date": "May 29 2022", "coverage":"Communication diagram" , "folder":"M3/OOSAD02"},
+               {"module": "03", "no": 3, "date": "May 30 2022", "coverage":"Diagrams" , "folder":"M3/OOSAD03"}
 
 
           ]
