@@ -54,10 +54,9 @@
                {"module": "03", "no": 1, "date": "May 29 2022", "coverage":"Activity diagram" , "folder":"M3/OOSAD01"},
                {"module": "03", "no": 2, "date": "May 29 2022", "coverage":"Communication diagram" , "folder":"M3/OOSAD02"},
                {"module": "03", "no": 3, "date": "May 30 2022", "coverage":"Diagrams" , "folder":"M3/OOSAD03"},
-               {"module": "03", "no": 4, "date": "May 30 2022", "coverage":"Diagrams" , "folder":"M3/OOSAD04"},
-               {"module": "03", "no": 5, "date": "May 30 2022", "coverage":"Diagrams" , "folder":"M3/OOSAD06"},
-               {"module": "03", "no": 6, "date": "May 30 2022", "coverage":"Diagrams" , "folder":"M3/OOSAD07"},
-               {"module": "03", "no": 7, "date": "May 30 2022", "coverage":"Diagrams" , "folder":"M3/OOSAD08"}
+               {"module": "03", "no": 4, "date": "Jun 03 2022", "coverage":"Diagrams" , "folder":"M3/OOSAD06"},
+               {"module": "03", "no": 5, "date": "Jun 03 2022", "coverage":"Diagrams" , "folder":"M3/OOSAD07"},
+               {"module": "03", "no": 6, "date": "Jun 03 2022", "coverage":"Diagrams" , "folder":"M3/OOSAD08"}
 
 
           ]
