@@ -59,7 +59,8 @@
                {"module": "03", "no": 6, "date": "Jun 03 2022", "coverage":"Diagrams" , "folder":"M3/OOSAD08"},
                {"module": "03", "no": 7, "date": "Jun 03 2022", "coverage":"Diagrams" , "folder":"M3/OOSAD09"},
                {"module": "04", "no": 1, "date": "Jun 13 2022", "coverage":"HTML5" , "folder":"M4/HTML_CSS_JS01"},
-               {"module": "04", "no": 2, "date": "Jun 13 2022", "coverage":"HTML5" , "folder":"M4/HTML_CSS_JS02"}
+               {"module": "04", "no": 2, "date": "Jun 13 2022", "coverage":"HTML5" , "folder":"M4/HTML_CSS_JS02"},
+               {"module": "04", "no": 3, "date": "Jun 14 2022", "coverage":"OOSAD & HTML5" , "folder":"M4/OOSAD_HTML_Mock_01"}
 
 
           ]
