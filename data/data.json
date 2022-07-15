@@ -68,7 +68,9 @@
                {"module": "04", "no": 8, "date": "Jun 25 2022", "coverage":"Mock" , "folder":"M4/HTML_CSS_JS_Mock01"},
                {"module": "04", "no": 9, "date": "Jun 25 2022", "coverage":"Mock" , "folder":"M4/HTML_CSS_JS_Mock02"},
                {"module": "04", "no": 10, "date": "Jun 25 2022", "coverage":"Mock" , "folder":"M4/HTML_CSS_JS_Mock03"},
-               {"module": "04", "no": 11, "date": "Jun 26 2022", "coverage":"Mock" , "folder":"M4/HTML_CSS_JS_Mock04"}
+               {"module": "04", "no": 11, "date": "Jun 26 2022", "coverage":"Mock" , "folder":"M4/HTML_CSS_JS_Mock04"},
+               {"module": "04", "no": 12, "date": "Jul 15 2022", "coverage":"Forms" , "folder":"M4/HTML_CSS_JS07"},
+               {"module": "04", "no": 13, "date": "Jul 15 2022", "coverage":"Websites" , "folder":"M4/HTML_CSS_JS08"}
 
 
           ]
