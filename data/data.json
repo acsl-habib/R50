@@ -77,7 +77,11 @@
                {"module": "04", "no": 17, "date": "Jul 18 2022", "coverage":"Mock" , "folder":"https://forms.office.com/r/1ZAU1Qa2Xv"},
                {"module": "06", "no": 1, "date": "Aug 27 2022", "coverage":"Introduction" , "folder":"https://forms.office.com/r/MAY97urNFv"},
                {"module": "06", "no": 2, "date": "Aug 27 2022", "coverage":"One-page web app" , "folder":"https://forms.office.com/r/XXn1BPDrpS"},
-               {"module": "06", "no": 3, "date": "Aug 27 2022", "coverage":"Data Sources" , "folder":"https://forms.office.com/r/9mKQSX7sJR"}
+               {"module": "06", "no": 3, "date": "Aug 28 2022", "coverage":"CSS3" , "folder":"https://forms.office.com/r/p770VmdvEt"},
+               {"module": "06", "no": 4, "date": "Aug 28 2022", "coverage":"Test & debug" , "folder":"https://forms.office.com/r/XEFfXNp1D9"},
+               {"module": "06", "no": 5, "date": "Aug 28 2022", "coverage":"Server controls" , "folder":"https://forms.office.com/r/UWXwT8BNUf"},
+               {"module": "06", "no": 6, "date": "Aug 27 2022", "coverage":"Data Sources" , "folder":"https://forms.office.com/r/9mKQSX7sJR"}
+               
                
                
           ]
