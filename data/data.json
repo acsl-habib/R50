@@ -84,7 +84,8 @@
                {"module": "06", "no": 7, "date": "Aug 28 2022", "coverage":"Master page" , "folder":"M6/ASP07"},
                {"module": "06", "no": 8, "date": "Aug 28 2022", "coverage":"Bootstrap" , "folder":"M6/ASP08"},
                {"module": "06", "no": 9, "date": "Aug 28 2022", "coverage":"Friendly URLs" , "folder":"M6/ASP09"},
-               {"module": "06", "no": 10, "date": "Aug 29 2022", "coverage":"Data Sources" , "folder":"https://forms.office.com/r/9mKQSX7sJR"}   
+               {"module": "06", "no": 10, "date": "Aug 29 2022", "coverage":"Data Sources" , "folder":"https://forms.office.com/r/9mKQSX7sJR"},
+               {"module": "06", "no": 11, "date": "Aug 28 2022", "coverage":"GridView" , "folder":"M6/ASP11"}   
           ]
      }
 ]
