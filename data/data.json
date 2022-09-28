@@ -90,7 +90,7 @@
                {"module": "07", "no": 2, "date": "Sep 27 2022", "coverage":"MVC views" , "folder":"M7/MVC02"},
                {"module": "07", "no": 3, "date": "Sep 27 2022", "coverage":"Model-binding " , "folder":"M7/MVC03"},
                {"module": "07", "no": 4, "date": "Sep 27 2022", "coverage":"Mock" , "folder":"https://forms.office.com/r/UBjSDJQxZ6"},
-               {"module": "07", "no": 5, "date": "Sep 27 2022", "coverage":"Input forms" , "folder":"M5/MVC05"},
+               {"module": "07", "no": 5, "date": "Sep 27 2022", "coverage":"Input forms" , "folder":"M7/MVC05"},
                {"module": "07", "no": 6, "date": "Sep 27 2022", "coverage":"Application aspects & security" , "folder":"M7/MVC06"},
                {"module": "07", "no": 7, "date": "Sep 27 2022", "coverage":"Design & customize controller" , "folder":"M7/MVC07"},
                {"module": "07", "no": 8, "date": "Sep 27 2022", "coverage":"Web api basics" , "folder":"M7/MVC08"},
